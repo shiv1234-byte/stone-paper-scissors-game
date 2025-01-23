@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/shiv1234-byte/stone-paper-scissors.git
+git clone https://github.com/shiv1234-byte/stone-paper-scissors-game.git
 
 Navigate to the project directory:
 
