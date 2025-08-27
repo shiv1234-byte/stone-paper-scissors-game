@@ -70,3 +70,5 @@ Push to the branch:
 sh
 git push origin feature/your-feature
 Open a pull request.
+<img width="1912" height="800" alt="Screenshot 2025-08-27 115923" src="https://github.com/user-attachments/assets/f1e67ab5-f10b-402e-88c1-e18be5ead82e" />
+
